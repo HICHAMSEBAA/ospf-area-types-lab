@@ -72,7 +72,7 @@ graph TD
   R9 --- Net((Net / Internet))
 ```
 
-The same diagram, with interface names, is in [`docs/topology.mmd`](docs/topology.mmd).
+The same diagram, with interface names, is in [`docs/topology.mmd`](docs/topology.md).
 
 ---
 
