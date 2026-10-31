@@ -4,11 +4,10 @@
 ![Vendor](https://img.shields.io/badge/Vendor-Cisco%20IOS%20%2F%20IOS--XE-orange)
 ![Protocol](https://img.shields.io/badge/Protocol-OSPFv2%20%7C%20EIGRP-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Validate](https://github.com/OWNER/REPO/actions/workflows/validate.yml/badge.svg)
+![Validate](https://github.com/HICHAMSEBAA/ospf-area-types-lab/actions/workflows/validate.yml/badge.svg)
 
 This repository contains the full architecture, Cisco IOS configurations, protocol behavioral analysis, a static config validator and Wireshark validation tasks for an **eleven-router OSPFv2 design** that uses **every classic area type**: Area 0 backbone, a **stub** area, a **totally stubby** area, an **NSSA** and a **totally NSSA**. It also includes an **EIGRP 100** domain redistributed at an NSSA ASBR and a simulated Internet edge, all inside a single **10.10.0.0/16** address block.
 
-> Replace `OWNER/REPO` in the badge above with your GitHub path after publishing.
 
 ---
 
